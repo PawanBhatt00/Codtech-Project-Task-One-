@@ -20,7 +20,4 @@ A simple and intuitive To-Do List application that allows users to create, manag
 - A modern web browser (e.g., Chrome, Firefox, Microsoft Edge).
 - Basic knowledge of HTML, CSS, and JavaScript (optional for usage, but helpful for understanding the code).
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/pawanbhatt00/todo-list.git
+
