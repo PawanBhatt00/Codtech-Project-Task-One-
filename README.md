@@ -1,8 +1,8 @@
 
-Name - PAWAN BHATT
-Company Name - CODTECH IT SOLUTIONS  
-InterID:CT08DS4717
-Domain- Web Development 
+Name - PAWAN BHATT,
+Company Name - CODTECH IT SOLUTIONS,  
+InterID:CT08DS4717,
+Domain- Web Development, 
 Duration- July TO August 2024
 
 
